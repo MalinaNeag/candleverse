@@ -1,12 +1,25 @@
-# CandleVerse
+# 🕯️ CandleVerse
 ## Main repository for CandleVerse full-stack project
-This E-commerce Web Application was developed using **Next.js** for the frontend, **MongoDB** for data management, **Stripe** for secure payment processing, and cloud storage services provided by **Amazon AWS**. User access is made seamless through **Google login via Gmail**, facilitated by NextAuth. The application is also mobile responsive. 
-For additional details, please refer to the **__Requirements and Specifications__** document. 
 
-[Admin Repo](https://github.com/MalinaNeag/candleverse-admin) / [Client Repo](https://github.com/MalinaNeag/candleverse-client)
+🔗 [Admin Repository](https://github.com/MalinaNeag/candleverse-admin) / [Client Repository](https://github.com/MalinaNeag/candleverse-client)
 
-## Project preview
-<img src="https://raw.githubusercontent.com/MalinaNeag/candleverse/main/gif_preview/client_preview.gif" width="500">
-<img src="https://raw.githubusercontent.com/MalinaNeag/candleverse/main/gif_preview/admin_preview.gif" width="500">
+**Tech Stack**:
+- Frontend: **Next.js**
+- Styling: **CSS**, **Tailwind CSS**
+- Data Management: **MongoDB**
+- Payment Processing: **Stripe**
+- Cloud Storage: **Amazon AWS**
+- User Access: **Google Login via Gmail**
 
+📱 Mobile Responsive: Yes!
 
+For more in-depth information, please check out **__Requirements and Specifications__** document.
+
+## Project Preview 📷
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/MalinaNeag/candleverse/main/gif_preview/client_preview.gif" width="700" alt="CandleVerse Client Preview">
+</div>
+
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/MalinaNeag/candleverse/main/gif_preview/admin_preview.gif" width="700" alt="CandleVerse Admin Preview">
+</div>
