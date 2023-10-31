@@ -5,4 +5,8 @@ For additional details, please refer to the **__Requirements and Specifications_
 
 [Admin Repo](https://github.com/MalinaNeag/candleverse-admin) / [Client Repo](https://github.com/MalinaNeag/candleverse-client)
 
+## Project preview
+<img src="https://raw.githubusercontent.com/MalinaNeag/candleverse/main/gif_preview/client_preview.gif" width="500">
+<img src="https://raw.githubusercontent.com/MalinaNeag/candleverse/main/gif_preview/admin_preview.gif" width="500">
+
 
