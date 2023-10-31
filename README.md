@@ -4,3 +4,5 @@ This E-commerce Web Application was developed using **Next.js** for the frontend
 For additional details, please refer to the **__Requirements and Specifications__** document. 
 
 [Admin Repo](https://github.com/MalinaNeag/candleverse-admin) / [Client Repo](https://github.com/MalinaNeag/candleverse-client)
+
+
