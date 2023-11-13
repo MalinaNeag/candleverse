@@ -6,7 +6,7 @@
 🔗 [Admin Repository](https://github.com/MalinaNeag/candleverse-admin) / [Client Repository](https://github.com/MalinaNeag/candleverse-client)
 
 **Tech Stack**:
-- Frontend: **Next.js**
+- Backend: **Next.js**
 - Styling: **CSS**, **Tailwind CSS**
 - Data Management: **MongoDB**
 - Payment Processing: **Stripe**
